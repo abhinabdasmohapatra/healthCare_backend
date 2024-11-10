@@ -11,5 +11,9 @@
     "Backend"
   ],
   "author": "Abhinab Das Mohaptra",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  }
 }
